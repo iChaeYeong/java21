@@ -6,6 +6,7 @@ public class Hello {
 		float fNum = (float) 3.253;
 		// TODO Auto-generated method stub
 		System.out.println("안녕 자바");
+		System.out.println("안녕 자바2");
 		System.out.println("hello");
 		System.out.printf("문자 = %s\n정수 = %d\n실수 = %f",str,iNum,fNum);
 	
